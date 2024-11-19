@@ -50,6 +50,9 @@ http://localhost:8080/regist.
 Project Structure 
 
 • /src/main/java: Contains the Java source code (Servlets, DAO, and Models). 
+
 • /src/main/webapp/WEB-INF: Contains JSP files for the front-end. 
+
 • /src/main/resources: Contains configuration files (e.g., db.properties). 
+
 • /lib: External libraries used in the project. 
